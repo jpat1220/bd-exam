@@ -14,9 +14,9 @@ Base de datos en **PostgreSQL** para gestionar usuarios, servicios y turnos.
 - **servicio:** Servicios ofrecidos  
 - **turno:** Turnos asignados a los usuarios  
 
----
+
 Para visualizar datos:
-SELECT * FROM usuario;
+SELECT * FROM tabla;
 ---
 
 ## 👤 Autor
